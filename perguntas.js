@@ -1,35 +1,35 @@
 criaCartao(
     'História',
-    'Em que ano foi declarada a independencia?',
-    '1822'
+    'Quem foi o primeiro imperador do Brasil?',
+    'Dom Pedro I'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a raiz quadrada de 144?',
-    '12'
+    'Quanto é 7 x 8?',
+    '56'
 )
 
 criaCartao(
     'Biologia',
-    'Onde fica o fica o fêmur?',
-    'Na coxa'
+    'Qual órgão é responsável por bombear o sangue?',
+    'O coração'
 )
 
 criaCartao(
     'Jogos',
-    'Quantos fps o xbox series x roda?',
-    '120fps'
+    'Quantos personagens jogáveis há em "Among Us"?',
+    '12'
 )
 
 criaCartao(
     'Geografia',
-    'O que é uma depressão?',
-    'formas de relevo rebaixadas que se formaram a partir de um longo processo de erosão'
+    'Qual é o maior país da América do Sul?',
+    'Brasil'
 )
 
 criaCartao(
     'Química',
-    'Qual número atômico da molécula de ouro?',
-    '79'
+    'Qual é a fórmula química da água?',
+    'H₂O'
 )
